@@ -1,7 +1,7 @@
 
 **GIF
 
-![Alt text](bread. gif)
+![](https://github.com/Maxi0427/ESE519_lab2b/blob/main/bread.gif)
 
 **Our Poposal:
 
