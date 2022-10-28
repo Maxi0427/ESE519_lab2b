@@ -1,5 +1,5 @@
 
-**GIF
+***GIF
 
 ![](https://github.com/Maxi0427/ESE519_lab2b/blob/main/bread.gif)
 
