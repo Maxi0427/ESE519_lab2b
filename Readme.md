@@ -23,3 +23,4 @@ This is the Breadboard for the pinout.
 **Soldering Process
 
 Now we gonna solder it on the prototype board, During the process:
+![](soldering.gif)
