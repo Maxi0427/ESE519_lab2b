@@ -25,3 +25,9 @@ This is the Breadboard for the pinout.
 Now we gonna solder it on the prototype board, During the process:
 
 ![](soldering.gif)
+
+**Show case
+
+Now it is the Final showcase with prototype board, The passowrd is "ese519", if correctlly entered green led light on. Otherwise RED ON.
+
+![](show.gif)
