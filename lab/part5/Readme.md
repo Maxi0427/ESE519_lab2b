@@ -10,6 +10,6 @@ The dark one
 
 the more bright one
 
-![image](https://user-images.githubusercontent.com/58932929/200009304-079ef764-0c09-425c-9683-f6af52d69f0b.png)
+![image](https://user-images.githubusercontent.com/58932929/200009548-63c6d205-f43e-439f-ac5c-c171d181b02f.png)
 
 So we can see the last several bits are very obvious on showing is the data showing or not. 
